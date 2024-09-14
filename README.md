@@ -1,2 +1,2 @@
 # QR-Code-Generator
-A static website that generates QR code for users as well as allow them to download them.
+A static website that generates QR code for users as well as allow them to download the QR code image.
